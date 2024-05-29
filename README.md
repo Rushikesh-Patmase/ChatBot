@@ -36,7 +36,8 @@ Ngrok will provide a forwarding URL like http://<your_ngrok_subdomain>.ngrok.io.
 
 * Navigate to the WhatsApp sandbox settings.
 
-* Set the When a message comes in URL to the Ngrok forwarding URL followed by /sms. For example: http://<your_ngrok_subdomain>.ngrok.io/sms.
+* Set the When a message comes in URL to the Ngrok forwarding URL followed by /sms. For example:
+*       http://<your_ngrok_subdomain>.ngrok.io/sms.
 
 * Save the settings.
 
