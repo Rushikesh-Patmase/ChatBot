@@ -67,11 +67,12 @@ Use your WhatsApp application to send a message to your Twilio WhatsApp sandbox 
 
 Keep an eye on the Flask application logs to see the interactions and debug any issues if necessary.
 
-![Screenshot 2024-05-29 154803](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/4aeac7d5-892d-413d-8cea-223c5052a87b)
+![Screenshot 2024-05-29 162851](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/d8540c2a-1858-45b5-9ac2-7eb8df21d277)
 
 
 # Output Images:
 
-![Screenshot 2024-05-29 154909](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/34c4bbc9-de30-4b08-9342-69cf1fdcdaa5)
+![Screenshot 2024-05-29 162649](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/104748f6-8492-4955-8431-1ea1e79cb765)
+
 
 
