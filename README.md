@@ -10,20 +10,20 @@ A chatbot made using Flask which responds to a user when he says "i want to logi
 ## 2. Install Required Packages:
 Ensure all the required packages are installed in your virtual environment:
 
-pip install flask twilio transformers torch sqlalchemy
+      pip install flask twilio transformers torch sqlalchemy
 
 
 ## 3. Run Your Flask Application:
 Start the Flask server:
 
-flask run
+      flask run
 
 ## 4. Setting Up Ngrok and Configuring Twilio
 Start Ngrok:
 
 Open a new terminal window and run:
 
-ngrok http 5000
+      ngrok http 5000
 
 
 ## 5. Copy the Ngrok URL:
