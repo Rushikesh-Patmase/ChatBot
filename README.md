@@ -72,7 +72,15 @@ Keep an eye on the Flask application logs to see the interactions and debug any 
 
 # Output Images:
 
+## As the first email was already present in the database, the chatbot replied with the error message:
 ![Screenshot 2024-05-29 162649](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/104748f6-8492-4955-8431-1ea1e79cb765)
+
+## Flask logs:
+![Screenshot 2024-05-29 162851](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/396958ee-1ee1-4679-8092-b7bb15101d79)
+
+## ngrok logs:
+![Screenshot 2024-05-29 163127](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/8d51d09a-f36f-4c16-a6f9-85799f11669e)
+
 
 
 
