@@ -56,7 +56,7 @@ Ngrok will provide a forwarding URL like http://<your_ngrok_subdomain>.ngrok.io.
 
 * Open WhatsApp to chat with your chatbot whose number/link is provided in the Twilio WhatsApp sandbox section as shown below:
 
-  ![Screenshot 2024-05-29 152119](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/f657f956-f3d1-451a-a5fa-9f7e8fc6361d)
+
 
 
 ## 7. Send a WhatsApp Message:
