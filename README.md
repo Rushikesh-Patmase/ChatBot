@@ -7,6 +7,7 @@ A chatbot made using Flask which responds to a user when he says "i want to logi
 
       new_env\Scripts\activate
 
+
 ## 2. Install Required Packages:
 Ensure all the required packages are installed in your virtual environment:
 
@@ -18,12 +19,21 @@ Start the Flask server:
 
       flask run
 
+### Example:
+
+![Screenshot 2024-05-29 151530](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/e01b70be-e49f-4bdd-84d7-1d48bdbaaa3f)
+
+
 ## 4. Setting Up Ngrok and Configuring Twilio
 Start Ngrok:
 
 Open a new terminal window and run:
 
       ngrok http 5000
+
+### Example:
+
+![Screenshot 2024-05-29 151630](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/af86c017-900b-4f31-94ad-e87f5c9b0815)
 
 
 ## 5. Copy the Ngrok URL:
@@ -38,10 +48,16 @@ Ngrok will provide a forwarding URL like http://<your_ngrok_subdomain>.ngrok.io.
 
 * Set the When a message comes in URL to the Ngrok forwarding URL followed by /sms. For example:
 *       http://<your_ngrok_subdomain>.ngrok.io/sms.
+*   ### Example:
+  
+  ![Screenshot 2024-05-29 152119](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/77030d6c-a82f-4b1d-afdc-6b91c328a66b)
 
 * Save the settings.
 
-* Testing Your Chatbot
+* Open WhatsApp to chat with your chatbot whose number/link is provided in the Twilio WhatsApp sandbox section as shown below:
+
+  ![Screenshot 2024-05-29 152119](https://github.com/Rushikesh-Patmase/ChatBot/assets/105331213/f657f956-f3d1-451a-a5fa-9f7e8fc6361d)
+
 
 ## 7. Send a WhatsApp Message:
 
@@ -50,3 +66,6 @@ Use your WhatsApp application to send a message to your Twilio WhatsApp sandbox 
 ## 8. Monitor Flask Logs:
 
 Keep an eye on the Flask application logs to see the interactions and debug any issues if necessary.
+
+# Output Images:
+
